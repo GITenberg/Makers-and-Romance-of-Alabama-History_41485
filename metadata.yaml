@@ -1,0 +1,28 @@
+_repo: Makers-and-Romance-of-Alabama-History_41485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41485-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Riley, B. F. (Benjamin Franklin)
+    alias: Riley, Benjamin Franklin
+    birthdate: 1849
+    deathdate: 1925
+    gutenberg_agent_id: '41200'
+    url: http://www.gutenberg.org/2009/agents/41200
+description: ''
+gutenberg_issued: '2012-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F296'
+- !lcsh 'Alabama -- Biography'
+- !lcsh 'Alabama -- History'
+title: Makers and Romance of Alabama History
+url: http://www.gutenberg.org/ebooks/41485
